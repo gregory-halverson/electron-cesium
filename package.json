@@ -1,0 +1,21 @@
+{
+  "name": "electron-cesium",
+  "version": "0.1.0",
+  "description": "Cesium running in Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": "https://github.com/gregory-halverson/electron-cesium",
+  "keywords": [
+    "Electron",
+    "Cesium",
+    "GIS"
+  ],
+  "author": "Gregory Halverson",
+  "license": "ISC",
+  "devDependencies": {
+    "cesium": "^1.37.0",
+    "electron": "~1.6.2"
+  }
+}
